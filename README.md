@@ -1,4 +1,6 @@
-un piccolo readme
-per provare
-che merge sembra facile
-ma non funziona quasi mai
+scrivo un piccolo ma interessante readme
+dove le modifiche 
+sono abbastanza complesse
+ma la fusione (merge) non funziona quasi mai
+Soprattutto con modifiche interne
+
